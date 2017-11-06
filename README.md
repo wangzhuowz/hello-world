@@ -1,4 +1,4 @@
 # hello-world
 Beginning
 
-I want to learn python,Machine Learn and AI.
+This is my first Hello to all of the world.Nice to meet you!
